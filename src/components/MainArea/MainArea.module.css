@@ -1,0 +1,7 @@
+.MainArea{
+  background-color: antiquewhite;
+  color: black;
+  width: 70%;
+  height: 100vh;
+  display: flex;
+}

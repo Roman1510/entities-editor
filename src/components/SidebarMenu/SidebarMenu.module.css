@@ -1,0 +1,7 @@
+.SidebarMenu {
+  background-color: cyan;
+  color: black;
+  width: 30%;
+  height: 100vh;
+  display: flex;
+}

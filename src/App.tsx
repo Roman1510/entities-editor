@@ -9,7 +9,7 @@ const App: React.FC = () => {
     <>
       <Split
         className="app"
-        sizes={[25, 75]}
+        sizes={[30, 70]}
         minSize={100}
         expandToMin={false}
         gutterSize={10}
